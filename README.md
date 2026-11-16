@@ -1,11 +1,22 @@
-# Introduction
-My name is Clione and I'm a full-stack enginner!! <img src="https://github.com/user-attachments/assets/38e5e680-6d53-4dec-9a78-fc48d5283cb2" width="18" height="18" alt="rocket">
+### Clione (`araki777`)
 
-# My Skill
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,vite,tailwind,python,mysql,postgresql,supabase,docker,firebase,azure,vercel,github,vscode,figma" /> <br /><br />
+業界経験のわりにへぼへぼなエンジニアやってます。  
+日々勉強！AI 時代を生き抜くべく、個人開発で Web アプリやクラウド周りを触っています。
 
-# Now Training
-<img src="https://skillicons.dev/icons?i=next,tailwind,rust,wasm,supabase,cloudflare,go,flutter" /> <br /><br />
+---
 
-# About me
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araki777&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+#### 🛠 よく使う技術
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,python,azure,cloudflare,terraform,githubactions" alt="Tech Stack" />
+</p>
+
+#### ✍️ 発信
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/clione)
+
+---
+
+#### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=araki777&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araki777&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top Languages" />
+</p>
