@@ -1,6 +1,6 @@
 ### Clione (`araki777`)
 
-業界経験のわりにへぼへぼなエンジニアやってます。  
+雑魚エンジニアやってます。  
 日々勉強！AI 時代を生き抜くべく、個人開発で Web アプリやクラウド周りを触っています。
 
 ---
@@ -17,6 +17,6 @@
 
 #### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=araki777&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araki777&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=araki777&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=araki777&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top Languages" />
 </p>
