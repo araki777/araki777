@@ -17,6 +17,6 @@
 
 #### 📊 GitHub Activity
 <p>
-  <img src="https://streak-stats.demolab.com/?user=araki777&theme=transparent&hide_border=true&v=5" height="165" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=araki777&theme=transparent&hide_border=true&v=6" height="165" alt="GitHub Streak" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=araki777&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top Languages" />
 </p>
